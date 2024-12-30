@@ -1,8 +1,8 @@
-# Lab4STEAM website
+# Witryna Lab4STEAM
 
-To jest repozytorium website Lab4STEAM ...
+To jest repozytorium witryny [Lab4STEAM](https://lab4steam.github.io/).
 
-## License
-Strona na bazie wzorca [**Chirpy**][chirpy].
+## Licencja
+Wszystkie materiały Lab4STEAM są dostepne publicznie i nieodpłatnie pod licencją [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).
 
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+Strona na bazie projektu [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/).
