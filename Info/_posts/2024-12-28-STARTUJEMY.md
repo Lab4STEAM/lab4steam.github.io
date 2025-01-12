@@ -3,7 +3,7 @@ title: STARTUJEMY!!!
 date: 2024-12-30 12:00:00
 tags: [aktualności]
 pin: true
-image: /assets/2024/mini-START.png
+image: /assets/images/icon-start.png
 ---
 ***Dzisiaj oficjalnie startujemy z nasza stroną Lab4STEAM :rocket:***
 
@@ -20,4 +20,4 @@ Trzymajcie kciuki :+1:
 > Więcej o inicjatywie Lab4STEAM można przeczytac tutaj >> [O NAS](/about).
 {: .block-tip }
 
-![STEAM](/assets/2024/mini-START.png)
+![STEAM](/assets/images/icon-start.png)
